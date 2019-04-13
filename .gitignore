@@ -1,0 +1,13 @@
+
+\.idea/
+
+gradlew
+
+gradlew\.bat
+
+\.gradle/
+
+out/
+/build/
+
+gradle/wrapper/gradle-wrapper\.jar
