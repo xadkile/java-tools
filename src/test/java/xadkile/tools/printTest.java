@@ -88,7 +88,7 @@ public class printTest {
 
     @Test
     public void listIndex(){
-        print.listIndex(testContents);
+        print.listWithIndex(testContents);
         StringBuilder expect = new StringBuilder();
         int x=0;
         for (TestContent tc : testContents) {
